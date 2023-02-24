@@ -6,4 +6,4 @@ I created a user and assigned a billing and admin policy to the user from my roo
 
 # Create a Budget
 I created a zero budget and a customised budget. Attached below is an image of it.
-!
+![Image of budget](assets/Billing%20alarm.jpg)
