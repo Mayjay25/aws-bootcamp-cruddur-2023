@@ -19,3 +19,7 @@ I created a billing alarm for my user account
 # Napkin diagram
 Using the lucid chart I created a napkin diagram 
 ![napkin diagram](Napkin%20diagram.jpg)
+
+# Cruddur- Logical Architectural Diagram
+I created the logical diagram for the crudder application. I used the following services S3, DNS, Load Balancer, AppSync, Dynamo DB, Momento and a host of other applications. The image is attached below.
+![Image of Logical Diagram](assets/1676723355763_Logical%20Design.jpeg)
